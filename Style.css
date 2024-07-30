@@ -1,8 +1,7 @@
 body{
-
-    background-color: rosybrown;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
+    background-image: url('chantilly.jpg')
+/*   background-color: rosybrown; */
+    
+    
 }
 
