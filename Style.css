@@ -22,3 +22,10 @@ body{
     cursor: pointer;
     
   }
+
+  
+
+  .button:hover {
+    background-color: #fafafa;
+    color: black;
+  }
