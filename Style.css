@@ -26,6 +26,6 @@ body{
   
 
   .button:hover {
-    background-color: #fafafa;
-    color: black;
+    background-color: #f1aaa4;
+    color: rgb(255, 255, 255);
   }
